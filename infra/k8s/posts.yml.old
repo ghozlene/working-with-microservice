@@ -5,4 +5,4 @@ metadata:
 spec:
   containers:
     - name: posts
-      image: achref/posts:0.0.1
+      image: achref/posts:0.0.5
