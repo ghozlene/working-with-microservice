@@ -39,6 +39,6 @@ app.post('/events', (req, res) => {
 
 console.log('version of this is here !!');
 app.listen(4000, () => {
-	console.log('this is version is v 20');
+	console.log('this is version v70');
 	console.log('listening on port 4000');
 });
